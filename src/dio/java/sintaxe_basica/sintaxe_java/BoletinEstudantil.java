@@ -15,6 +15,7 @@ package dio.java.sintaxe_basica.sintaxe_java;
             short nomeroCurto = 1;
             int nomeroNormal = nomeroCurto;
             short numeroCurto2 = (short) nomeroNormal;
+            System.out.println(numeroCurto2);
 
         }
 
