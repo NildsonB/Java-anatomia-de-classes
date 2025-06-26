@@ -20,5 +20,6 @@ public class Numeros {
             System.out.printf("%s %% %s = %s \n", verificacao, inicial, resultado);;
             if(resultado != 0) break;
         }
+
     }
 }
