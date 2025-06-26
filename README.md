@@ -1,18 +1,12 @@
-## Getting Started
+# Esse repositório é usado para armazenar os código utilizados em meus estudos sobre a linguagem java☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📖 Aqui está um pouco do que eu já estudei e aprendi até o momento:
 
-## Folder Structure
+[Sintaxe básica](src/dio/java/sintaxe_basica/sintaxe_java)
 
-The workspace contains two folders by default, where:
+[Estruturas de repetição](src/dio/java/sintaxe_basica/estruturas_de_repeticao)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[Introdução a estruturas condicionais](src/dio/java/sintaxe_basica/estruturas_condicionais_introducao)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Desafio de controle de fluxo](src/dio/java/sintaxe_basica/DesafioControleFruxo)
+>Nesse desafio foi desenvolvido um código e controle de fluxo, onde foram utilizadas duas entradas númericas, em que são utilizadas para fazer uma contagem do resultado da subtração dos dois números inseridos. Além da utilização de um controle de exceção personalizado.
